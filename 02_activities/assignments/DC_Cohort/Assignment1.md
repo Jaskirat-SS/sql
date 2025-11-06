@@ -207,3 +207,11 @@ Consider, for example, concepts of fariness, inequality, social structures, marg
 ```
 Your thoughts...
 ```
+The article mentioned in the assignment highlights how social bias and limited perceptions of what constitutes a family or gender can become embedded in databases originally intended for accurate record-keeping. In developing countries, such databases often rely on assumptions of digital literacy and access to electronic devices, which do not accurately represent the entire population.
+
+The databases I access in my daily life are related to health services and identification systems. As an Indian citizen, I have access to Aadhaar, which serves as India’s equivalent of an identity verification system. Similar issues exist in this database as in NADRA. It is also a piece of identity that is increasingly used for employment and access to public services such as education and healthcare.
+
+This database is built on the concept of a heteronormative, patriarchal society that perpetuates cycles of injustice, inequality, and marginalization. One example of this is the assumption that a person’s name remains the same throughout their life. There are two common instances where this may not hold true. In one case, a married woman may wish to change her maiden name — a process that is relatively simple. However, for a transgender person who wishes to change their name after transitioning from the one assigned at birth, the process is far more difficult and cumbersome. It requires extensive documentation, has limits on the number of permitted updates, and involves a lengthy, multi-step legal procedure. Similarly, changing one’s gender marker also demands extensive paperwork, and individuals often need legal assistance to complete this process.
+
+This is one example of how societal marginalization of gender-diverse individuals is perpetuated through technological systems. Such databases need to be updated to better account for social and identity differences.
+
