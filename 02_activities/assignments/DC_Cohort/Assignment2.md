@@ -56,6 +56,9 @@ The store wants to keep customer addresses. Propose two architectures for the CU
 ```
 Your answer...
 ```
+It will be Type 1 where the customer_address, in which the address column get updated to the
+latest address of the customer. In this case the record of old data are replaced by new entries.
+While in the case of Type 2, the customer_address table will include the old records as well as the new entries. Such tables contain more column to account for more information and also tell which entry is new or old. 
 
 ***
 
@@ -185,3 +188,8 @@ Consider, for example, concepts of labour, bias, LLM proliferation, moderating c
 ```
 Your thoughts...
 ```
+The ethical issue highlighted in the article concerns the value of human manual labour. All the structures and databases used as training sets for developing machine learning models were originally created by humans through careful, repetitive manual work. One major ethical concern is whether the people who perform these foundational tasks are being fairly compensated. Although the resulting systems are extensive and highly valuable, the labour that makes them possible is often undervalued.
+
+This reflects the concept of labour bias: later stages of machine learning development, such as training datasets and building models, are often given greater recognition and financial reward than the earlier, essential manual tasks. Furthermore, any biases present in the data annotators can be transferred to the models themselves, reinforcing and amplifying existing societal biases through technology.
+
+The article also raises the issue of valuing forms of human labour that cannot easily be automated, such as sewing garments. This serves as a reminder of the continued importance and dignity of human work in an increasingly automated world.
